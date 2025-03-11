@@ -71,7 +71,7 @@ const LandingPage = () => {
           </Button>
         </Link>
       </div>
-      <Carousel
+      {/* <Carousel
         plugins={[
           Autoplay({
             delay: 2000,
@@ -90,7 +90,7 @@ const LandingPage = () => {
             </CarouselItem>
           ))}
         </CarouselContent>
-      </Carousel>
+      </Carousel> */}
 
       {/* Featured Jobs */}
       <section className="py-10">
